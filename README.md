@@ -8,10 +8,9 @@
 
 ## About
 
-Engineering and infrastructure for the **Stone Monkey** programme —
-*Meandering Steps to Consciousness*.
+Engineering and infrastructure for the **Stone Monkey** programme.
 
-- 🔗 [symagenic.com](https://symagenic.com) — the longer journey
+- 🔗 [hiddendevelopment.net](https://hiddendevelopment.net) — the workshop
 - 🧪 Building AI that remembers you
 
 ## Current focus
